@@ -1,0 +1,19 @@
+body {
+    background-color: #ABD9FF;
+    font-family: 'Lato', sans-serif;
+    
+}
+.navbar{
+    background-color: #ABD9FF;
+}
+.navbar_styleDiv{
+    background-color: #161616;
+
+}
+.navbarContainer{
+    display: flex;
+    justify-content: flex-start;
+   
+    
+}
+

@@ -1,0 +1,19 @@
+.infoContainer{
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.commentInput{
+    display: flex;
+    padding: 2%;
+    width: 100%;
+}
+.commentInput img{
+     cursor: pointer;
+     height: 35px;
+}
+.commentInput img:hover{
+   transform: scale(1.1);
+}
